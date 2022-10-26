@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+### :woman_technologist: About Me :
 - :telescope: I'm a Biomedical Engineering student at Imperial College London aspiring to become a Software Engineer!
 
 - :seedling: Currently working on <b>SigmaFold</b>, the inverse problem to Deepmind's AlphaFold (can we go from protein shape to amino acid sequence?)
