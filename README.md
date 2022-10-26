@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - :seedling: Currently working on <b>SigmaFold</b>, the inverse problem to Deepmind's AlphaFold (can we go from protein shape to amino acid sequence?)
 
-- :zap: In my free time, I build the Google Developer Student Club at Imperial and also enjoy boxing! 
+- :zap: In my free time, I build the Google Developer Student Club community at Imperial and also enjoy boxing! 
 
 
 ### :hammer_and_wrench: Languages and Tools :
