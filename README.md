@@ -34,15 +34,12 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me :
 - :telescope: I'm a Biomedical Engineering student at Imperial College London aspiring to become a Software Engineer!
 
-### :hammer_and_wrench: Languages and Tools :
-
-
-
 - :seedling: Currently working on <b>SigmaFold</b>, the inverse problem to Deepmind's AlphaFold (can we go from protein shape to amino acid sequence?)
 
 - :zap: In my free time, I build the Google Developer Student Club at Imperial and also enjoy boxing! 
 
 
+### :hammer_and_wrench: Languages and Tools :
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nicolasdhnr&theme=dark&background=000000)](https://git.io/streak-stats)
